@@ -1,5 +1,5 @@
 # Balance-Subject-2
 
-***Feature: CvTheta
+***Feature: CvTheta***
 
-***Predicted Label: SubID
+***Predicted Label: SubID***
